@@ -1,0 +1,9 @@
+# Package
+.venv
+
+# Environment variable
+.envrc
+
+# Cache
+.mypy_cache
+__pycache__
